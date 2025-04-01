@@ -45,9 +45,9 @@ First, create two new agents Jane Doe and John Doe.  Jane with have sysadmin pri
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CZkzK1i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, create three separate service level agreements.  1) Sev-A grace period one hour and schedule 24/7 2) Sev-B period 4 hours and schedule 24/7  3) Sev-C period 8 hours and schedule normal business hours of 8am to 5pm.
 </p>
 <br />
