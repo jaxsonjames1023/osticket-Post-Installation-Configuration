@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/MGTUwK1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First,  log into osTicket as an administrator.  Next, click on the agent tab and go to roles.  Then create a supreme admin role with every permission box selected.  Once supreme admin account is created, going to create a new department called Sysadmins.  The final step is setting up the teams section. 
+First,  log into osTicket as an administrator.  Next, click on the agent tab and go to roles.  Then, create a supreme admin role with every permission box selected.  Once supreme admin account is setup, create a new department called Sysadmins.  The final step is setting up the teams section. 
 </p>
 <br />
 
@@ -40,7 +40,7 @@ First,  log into osTicket as an administrator.  Next, click on the agent tab and
 <img src="https://i.imgur.com/rzpl0wV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, create two new agents Jane Doe and John Doe.  Jane with have sysadmin privileges and John will have view only privileges. Next, create a user named Karen.  Finally, congfigure a SLA or service level agreement.
+First, create two new agents Jane Doe and John Doe.  Jane will have sysadmin privileges, and John will have view only privileges. Next, create a user named Karen.  Finally, congfigure a SLA or service level agreement.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ First, create two new agents Jane Doe and John Doe.  Jane with have sysadmin pri
 <img src="https://i.imgur.com/CZkzK1i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, create three separate service level agreements.  1) Sev-A grace period one hour and schedule 24/7 2) Sev-B period 4 hours and schedule 24/7  3) Sev-C period 8 hours and schedule normal business hours of 8am to 5pm.
+First, create three separate service level agreements.  1) Sev-A will be set as one hour and schedule 24/7 2) Sev-B will be set at 4 hours and schedule 24/7  3) Sev-C will be set at 8 hours and schedule normal business hours of 8am to 5pm.
 </p>
 <br />
